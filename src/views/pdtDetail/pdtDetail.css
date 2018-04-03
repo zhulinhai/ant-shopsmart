@@ -1,0 +1,12 @@
+.PdtDetailPage .am-list-item .am-list-line .am-list-extra {
+  flex-basis: 25%;
+  color: #f23030;
+}
+.PdtDetailPage .placeholder {
+  background-color: #ebebef;
+  color: #bbb;
+  text-align: center;
+  height: 30px;
+  line-height: 30px;
+  width: 100%;
+}

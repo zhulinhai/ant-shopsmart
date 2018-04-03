@@ -1,0 +1,5 @@
+{
+  "plugins": [
+    ["import", { "style": "css", "libraryName": "antd-mobile" }] // `style: true` 会加载 less 文件
+  ]
+}
