@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import MainTabBar from './main.js';
+import MainTabBar from './containers/main.js';
 // import NotFoundPage from './nofind/nofind.jsx';
 import Login from './views/auth/loginView.js';
 import registerServiceWorker from './registerServiceWorker';
